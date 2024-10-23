@@ -7,7 +7,7 @@ This is a simple RESTful API for managing personal financial transactions such a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/praveen-kumar-2003/floww-ai-backend-assesment.git
+   git clone https://github.com/sanjaykumar638/Personal-Expense-Tracker.git
    ```
 
 2. Install dependencies:
